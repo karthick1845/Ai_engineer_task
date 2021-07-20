@@ -7,7 +7,7 @@ Step-2: Then upload this project.
 
 Step-3: Just command pip install -r requirements.txt
 
-Step-4: Then set your test_image path in test_data variable in predict.py file.
+Step-4: Then set your test_image path in test_image variable in predict.py file.
 
 Step-5: Execute predict.py file see your results.
 
