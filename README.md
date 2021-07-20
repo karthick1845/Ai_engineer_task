@@ -11,6 +11,17 @@ Step-4: Then set your test_image path in test_image variable in predict.py file.
 
 Step-5: Execute predict.py file see your results.
 
-Step-6: If you want to check my model set train,test image path then execute main.py file.
+Step-6: If you want to check my custom model set train,test image path then execute main.py file.
+
+
+
+Answer for your questions:
+
+1) I expect 4-5 lakhs/yr.
+2) Immediately available.
+4) Yes,I am ready for relocation.
+5) Inside India,i don't need visa.
+6) My proficiency in english would be Intermediate level.
+7) Yes,I am ready for relocating any location.
      
      
