@@ -1,7 +1,7 @@
 # Ai_engineer_task
 
 
-Step-1: Create a new path in you anaconda prompt.
+Step-1: Create a new path in your anaconda prompt.
 
 Step-2: Then upload this project.
 
